@@ -142,16 +142,7 @@ font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.06em;
 color: var(--dark-bl);
-/*background-color: var(--logo-cl)*/;
-}
-
-button:hover {
-color:#ffffff
-background-color:var(--logo-font);
-}
-button:focus{
-  color:#ffffff ;
-
+background-color: var(--logo-cl);
 }
 
 .footer{

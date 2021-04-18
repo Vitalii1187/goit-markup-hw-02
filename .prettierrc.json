@@ -4,5 +4,5 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
-    "liveServer.settings.donotShowInfoMsg": true
+    "liveServer.settings.donotShowInfoMsg": true,
 }
